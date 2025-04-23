@@ -88,7 +88,7 @@
 
 ### 🔄 Git Flow 전체 흐름 – 예시 1
 
-![Git Flow 다이어그램](https://example.com/git-flow-diagram.png)
+
 
 
 **전체 흐름**
